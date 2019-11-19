@@ -22,7 +22,7 @@ while jerseyNumber != 0:
 
 	print("Total Bases: " + str(totalBases))
 
-	print("At Bat: " + str(atBats))
+	print("At Bats: " + str(atBats))
 
 	print("Slugging Percentage: " + str(sluggingPercentage))
 
